@@ -98,7 +98,7 @@ export default class ShowResult extends React.Component {
 
                     
                 </div>
-                <p className="path-line">See the this code in the follow path Task-LandWorks/src/components/ShowResult.js line 14</p>
+                <p className="path-line">See this code in the follow path Task-LandWorks/src/components/ShowResult.js line 14</p>
                 <div className="footer-widget">
                     <Footer/>
                 </div>
